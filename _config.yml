@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mayesha Tasnim"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mayesha Tasnim"
 description              : &description "PhD Student at the Civic AI Lab"
