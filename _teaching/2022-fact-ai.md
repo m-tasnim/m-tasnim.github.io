@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-fact-ai
 venue: "University of Amsterdam, Master Artificial Intelligence"
-date: 2022-2023
+date: 2022-01-01
 location: "Amsterdam, Netherlands"
 ---
 
