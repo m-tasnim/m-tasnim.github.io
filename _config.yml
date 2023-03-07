@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mayesha Tasnim / PhD Student"
+title                    : "Mayesha Tasnim"
 title_separator          : "-"
 name                     : &name "Mayesha Tasnim"
 description              : &description "PhD Student at the Civic AI Lab"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mayesha Tasnim"
   avatar           : "photo.jpg"
-  bio              : "PhD Student at the Civic AI Lab, University of Amsterdam"
+  bio              : "PhD Student at Civic AI Lab, University of Amsterdam"
   location         : "Amsterdam, Netherlands"
   employer         :
   pubmed           :
